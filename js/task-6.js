@@ -33,4 +33,4 @@ createButton.addEventListener('click', () => {
   }
 });
 
-destroyButton.addEventListener('clisk', destroyBoxes);
+destroyButton.addEventListener('click', destroyBoxes);
